@@ -3,6 +3,9 @@ A user friendly, secured flask app for music enthusiasts where one can browse th
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Size](https://github-size-badge.herokuapp.com/aiy-wish/musico-flask-app.svg)
+
+
 ## Features
 - Secure Registration and authentication
   -2FA with QR Code and giving token number every time a user is logging in.
