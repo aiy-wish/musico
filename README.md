@@ -1,6 +1,8 @@
 # [Musico](https://musico-flask-app.herokuapp.com)
 A user friendly, secured flask app for music enthusiasts where one can browse through different musico pages and post anything and reply to anything 
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 ## Features
 - Secure Registration and authentication
   -2FA with QR Code and giving token number every time a user is logging in.
